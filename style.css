@@ -3,3 +3,5 @@
 .blocked{display:block;background:#fff0e8;color:#8e3e19;border:1px solid #f1c8b2;padding:8px;border-radius:6px;font-size:12px;font-weight:700}
 .record{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #e5e9ef}
 .record small{display:block;color:#65758b;margin-top:5px}
+
+.site-results{border:1px solid #d3dce9;border-radius:8px;max-height:230px;overflow:auto;margin:8px 0 16px}.site-results button{display:flex;flex-direction:column;text-align:left;width:100%;padding:12px;background:white;border:0;border-bottom:1px solid #e6ebf2;cursor:pointer}.site-results button:hover{background:#edf5ff}.site-results small{color:#687b92;margin-top:4px}.site-selected{padding:12px;background:#e9f8ee;border:1px solid #a9d7b9;border-radius:8px;display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:12px 0}.site-selected span{color:#4b6655}.site-create{padding:18px;background:#f6f9fc;border:1px solid #d9e2ed;border-radius:10px;margin:14px 0}
